@@ -1,0 +1,10 @@
+h1{
+    color: blue;     
+}
+button{
+    background-color: aquamarine;
+    margin-top: 50px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+}
